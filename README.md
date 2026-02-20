@@ -62,7 +62,7 @@
 git clone  https://github.com/beingtaha/Weather-Dashboard_Appverse-Internship-Project-.git
 
 # Install dependencies
-cd weather-dashboard
+cd Weather-dashboard_Appverse-Internship-Project
 npm install
 
 # Start development server
