@@ -35,7 +35,7 @@
 | Frontend | API | Styling | Deployment |
 |----------|-----|---------|------------|
 | React 18 | OpenWeatherMap | CSS3 + Flexbox | GitHub |
-| useState Hooks | Current Weather Data | Grid + Media Queries | [Your Link] |
+| useState Hooks | Current Weather Data | Grid + Media Queries | [[Your Link](https://github.com/beingtaha/Weather-Dashboard_Appverse-Internship-Project-)] |
 | Conditional Rendering | Free Tier | Glass Morphism | |
 
 </div>
@@ -59,7 +59,7 @@
 ## 🚀 Quick Start
 
 # Clone repository
-git clone https://github.com/beingtaha/weather-dashboard.git
+git clone  https://github.com/beingtaha/Weather-Dashboard_Appverse-Internship-Project-.git
 
 # Install dependencies
 cd weather-dashboard
@@ -113,4 +113,4 @@ MIT License | Educational Project | Appverse Technologies Internship
 ## ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub!
 
-<div align="center"> <b>Made with ❤️ for the Appverse Technologies Internship</b> <br/> <sub>© 2026 Weather Dashboard. All rights reserved.</sub> </div> ```
+<div align="center"> <b>Made with ❤️ for the Appverse Technologies Internship</b> <br/> <sub>© 2026 Weather Dashboard. All rights reserved.</sub> </div> 
