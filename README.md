@@ -35,7 +35,7 @@
 | Frontend | API | Styling | Deployment |
 |----------|-----|---------|------------|
 | React 18 | OpenWeatherMap | CSS3 + Flexbox | GitHub |
-| useState Hooks | Current Weather Data | Grid + Media Queries | [[Your Link](https://weather-dashboard-appverse-internsh.vercel.app/)] |
+| useState Hooks | Current Weather Data | Grid + Media Queries | [Vercel](https://weather-dashboard-appverse-internsh.vercel.app/)] |
 | Conditional Rendering | Free Tier | Glass Morphism | |
 
 </div>
